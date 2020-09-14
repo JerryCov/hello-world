@@ -1,0 +1,19 @@
+{
+  "name": "learning-node-1",
+  "version": "1.0.0",
+  "description": "A new effort",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerry A Covington",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^10.1.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
